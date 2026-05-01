@@ -1,0 +1,2 @@
+API rate limits may cause errors.
+Check API key in dashboard.

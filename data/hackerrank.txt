@@ -1,0 +1,2 @@
+Reset password if login fails.
+Rejoin test using email link if session expires.
